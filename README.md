@@ -4,4 +4,6 @@ Dies hier ist mein **erstes Projekt**, um *GitHub* auszuprobieren.
 ## Mein To-dos:
 - [x] README.md befüllen
 - [ ] Andere Dinge ...
-- [ ] Es fehlte noch dieser Listenpunkt
+
+## Änderungen
+Dieser Abschnitt zeigt eine der Änderungen
